@@ -1,4 +1,4 @@
-Q1) Directory : It contains many files and doesn't't have extensions.
+Q1) Directory : It contains many folders and files and doesn't't have extensions.
     File : It contains content and has extensions.
 
 Q2) PWD : It is used to find out our location. It shows the absolute path to the directory or file we are at.
